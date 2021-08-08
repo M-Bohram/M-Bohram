@@ -21,15 +21,9 @@ Also, as a DevOps Engineer in which I follow the principles, tools, and best pra
 
 ## Rapidfire
 
-<table><tr><td valign="top" width="50%">
-
 - 🌱 I’m currently learning Serverless Architecture in AWS and Kubeless
 
 - ❓ Ask me about anything related to DevOps Engineering or Full-Stack Web Development
-
-</td><td valign="top" width="50%">
-
-</td></tr></table>
 
 <br/>
 
