@@ -9,13 +9,13 @@
 
 ### Glad to see you here!
 
-I’m a Sr. DevOps Engineer with 2 years of experience and a Software Engineer with over 4 years of experience.
+I’m a DevOps Engineer with almost 3 years of experience which is equivalent to even more and a Software Engineer with over 5 years of experience.
 
 I am interested in architecting, developing and deploying applications using different platforms and technologies.
 
-Currently, I am a Web Nanodegree Lead @ Udacity, teaching and instructing students about backend and frontend technologies.
+Currently, a Web Nanodegree Lead @ Udacity, teaching and instructing students about Cloud, frontend and backend technologies.
 
-Also, as a DevOps Engineer in which I follow the principles, tools, and best practices of DevOps Engineering and cutting edge technologies to speed up the Software delivery and making the systems more reliable, secure and performant.
+Also, as a DevOps Engineer III @ Certifaction and a Cloud Mentor @ Udacity, I follow the principles, tools, and best practices of DevOps Engineering and cutting edge technologies to speed up the Software delivery and making the systems more reliable, secure and performant.
 
 <br/>
 
